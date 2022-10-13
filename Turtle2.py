@@ -11,4 +11,4 @@ turtle.rt(135)
 ctverec(90)
 turtle.rt(135)
 ctverec(90)
-
+#ahoj
