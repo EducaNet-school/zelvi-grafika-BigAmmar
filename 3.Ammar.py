@@ -6,3 +6,4 @@ for i in range(7):
     liche_cislo = liche_cislo +2
     print(liche_cislo)
 #nemam dokoncene
+#uplne by stacilo ten print vyhodit z cyklu  

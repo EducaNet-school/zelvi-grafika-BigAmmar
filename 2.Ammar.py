@@ -5,3 +5,5 @@ for i in range(10):
     vysledek = x * nasobeni
     nasobeni = nasobeni +1
     print(vysledek)
+
+#tisne nasobilku spravne, ale zase nevkladas do seznamu
